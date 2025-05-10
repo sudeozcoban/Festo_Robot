@@ -1,0 +1,29 @@
+﻿  Map.cpp
+  Mapper.cpp
+  RobotController.cpp
+C:\Users\ozcob\Desktop\proje_okey\projeokey\RobotController.h(1,13): error C2014: önişlemci komutu ilk boşluk olmayan karakterde başlamalıdır
+  ('RobotController.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\ozcob\Desktop\proje_okey\projeokey\RobotController.cpp(54,17): error C2039: 'updateMap': bir 'Mapper' üyesi değil
+      C:\Users\ozcob\Desktop\proje_okey\projeokey\Mapper.h(6,7):
+      'Mapper' bildirimine bakın
+  
+C:\Users\ozcob\Desktop\proje_okey\projeokey\RobotController.cpp(55,17): error C2039: 'showMap': bir 'Mapper' üyesi değil
+      C:\Users\ozcob\Desktop\proje_okey\projeokey\Mapper.h(6,7):
+      'Mapper' bildirimine bakın
+  
+C:\Users\ozcob\Desktop\proje_okey\projeokey\RobotController.cpp(96,25): error C2661: 'Mapper::Mapper': hiçbir aşırı yüklenmiş işlev 2 bağımsız değişken almaz
+      C:\Users\ozcob\Desktop\proje_okey\projeokey\RobotController.cpp(96,25):
+      '(MAP, LidarSensor)' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+  RobotInterface.cpp
+C:\Users\ozcob\Desktop\proje_okey\projeokey\RobotInterface.cpp(5,22): error C2084: 'void RobotInterface::addSensor(std::shared_ptr<SensorInterface>)' işlevinin bir gövdesi zaten var
+      C:\Users\ozcob\Desktop\proje_okey\projeokey\RobotInterface.h(35,18):
+      önceki 'RobotInterface::addSensor' tanımına bakın
+  
+C:\Users\ozcob\Desktop\proje_okey\projeokey\RobotInterface.cpp(9,22): error C2084: 'void RobotInterface::updateSensors(void)' işlevinin bir gövdesi zaten var
+      C:\Users\ozcob\Desktop\proje_okey\projeokey\RobotInterface.h(42,18):
+      önceki 'RobotInterface::updateSensors' tanımına bakın
+  
+  SafeNavigation.cpp
+  Kod Üretiliyor...

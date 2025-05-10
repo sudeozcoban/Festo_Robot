@@ -1,0 +1,691 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:RobotController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\ROBOTCONTROLER.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:ROBOTCONTROLER.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Mapper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:Mapper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Mapper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:Mapper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:RobotInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\SafeNavigation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:SafeNavigation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\SafeNavigation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:SafeNavigation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:RobotController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\ROBOTCONTROLER.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:ROBOTCONTROLER.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:RobotInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\FestoRobotInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:FestoRobotInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\FestoRobotSensorInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:FestoRobotSensorInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\IRSensor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:IRSensor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\IRSensor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:IRSensor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\LidarSensor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:LidarSensor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\FestoRobotSensorInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:FestoRobotSensorInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Encryption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:Encryption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Encryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:Encryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\FestoRobotInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:FestoRobotInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\SensorInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:SensorInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotOperator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:RobotOperator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\LidarSensor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:LidarSensor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\FestoRobotAPI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:FestoRobotAPI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestRobotOperator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestRobotOperator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestRobotOperator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestRobotOperator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestEncryption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestEncryption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestEncryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestEncryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotOperator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:RobotOperator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Record.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:Record.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Record.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:Record.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Pose.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:Pose.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Pose.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A9A0385-D0AB-42E7-93AA-BC987B740E66}|proje.1.vcxproj|solutionrelative:Pose.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Point.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Point.cpp",
+              "RelativeDocumentMoniker": "Point.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Point.cpp",
+              "RelativeToolTip": "Point.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T10:59:34.665Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Point.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Point.h",
+              "RelativeDocumentMoniker": "Point.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Point.h",
+              "RelativeToolTip": "Point.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T10:58:39.522Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RobotOperator.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotOperator.cpp",
+              "RelativeDocumentMoniker": "RobotOperator.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotOperator.cpp",
+              "RelativeToolTip": "RobotOperator.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T11:15:54.256Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RobotOperator.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotOperator.h",
+              "RelativeDocumentMoniker": "RobotOperator.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotOperator.h",
+              "RelativeToolTip": "RobotOperator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T11:16:08.567Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Encryption.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Encryption.cpp",
+              "RelativeDocumentMoniker": "Encryption.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Encryption.cpp",
+              "RelativeToolTip": "Encryption.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T11:12:41.266Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Encryption.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Encryption.h",
+              "RelativeDocumentMoniker": "Encryption.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Encryption.h",
+              "RelativeToolTip": "Encryption.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T11:11:38.479Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RobotController.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotController.cpp",
+              "RelativeDocumentMoniker": "RobotController.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotController.cpp",
+              "RelativeToolTip": "RobotController.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T14:30:36.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ROBOTCONTROLER.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\ROBOTCONTROLER.cpp",
+              "RelativeDocumentMoniker": "ROBOTCONTROLER.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\ROBOTCONTROLER.cpp",
+              "RelativeToolTip": "ROBOTCONTROLER.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T15:42:22.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mapper.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Mapper.h",
+              "RelativeDocumentMoniker": "Mapper.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Mapper.h",
+              "RelativeToolTip": "Mapper.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T16:22:13.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mapper.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Mapper.cpp",
+              "RelativeDocumentMoniker": "Mapper.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Mapper.cpp",
+              "RelativeToolTip": "Mapper.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T16:22:42.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RobotInterface.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotInterface.h",
+              "RelativeDocumentMoniker": "RobotInterface.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotInterface.h",
+              "RelativeToolTip": "RobotInterface.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-27T10:53:43.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SafeNavigation.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\SafeNavigation.cpp",
+              "RelativeDocumentMoniker": "SafeNavigation.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\SafeNavigation.cpp",
+              "RelativeToolTip": "SafeNavigation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T16:14:22.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SafeNavigation.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\SafeNavigation.h",
+              "RelativeDocumentMoniker": "SafeNavigation.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\SafeNavigation.h",
+              "RelativeToolTip": "SafeNavigation.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T16:13:37.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RobotController.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotController.h",
+              "RelativeDocumentMoniker": "RobotController.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotController.h",
+              "RelativeToolTip": "RobotController.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-27T13:32:53.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ROBOTCONTROLER.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\ROBOTCONTROLER.h",
+              "RelativeDocumentMoniker": "ROBOTCONTROLER.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\ROBOTCONTROLER.h",
+              "RelativeToolTip": "ROBOTCONTROLER.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T15:41:01.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RobotInterface.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotInterface.cpp",
+              "RelativeDocumentMoniker": "RobotInterface.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\RobotInterface.cpp",
+              "RelativeToolTip": "RobotInterface.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-27T10:53:09.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Map.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Map.h",
+              "RelativeDocumentMoniker": "Map.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Map.h",
+              "RelativeToolTip": "Map.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T18:38:42.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Map.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Map.cpp",
+              "RelativeDocumentMoniker": "Map.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Map.cpp",
+              "RelativeToolTip": "Map.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T18:39:17.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FestoRobotInterface.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\FestoRobotInterface.cpp",
+              "RelativeDocumentMoniker": "FestoRobotInterface.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\FestoRobotInterface.cpp",
+              "RelativeToolTip": "FestoRobotInterface.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwCAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T19:10:47.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FestoRobotSensorInterface.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\FestoRobotSensorInterface.h",
+              "RelativeDocumentMoniker": "FestoRobotSensorInterface.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\FestoRobotSensorInterface.h",
+              "RelativeToolTip": "FestoRobotSensorInterface.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-27T10:50:24.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRSensor.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\IRSensor.cpp",
+              "RelativeDocumentMoniker": "IRSensor.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\IRSensor.cpp",
+              "RelativeToolTip": "IRSensor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T15:13:43.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRSensor.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\IRSensor.h",
+              "RelativeDocumentMoniker": "IRSensor.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\IRSensor.h",
+              "RelativeToolTip": "IRSensor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T15:13:05.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LidarSensor.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\LidarSensor.cpp",
+              "RelativeDocumentMoniker": "LidarSensor.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\LidarSensor.cpp",
+              "RelativeToolTip": "LidarSensor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T15:15:27.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FestoRobotSensorInterface.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\FestoRobotSensorInterface.cpp",
+              "RelativeDocumentMoniker": "FestoRobotSensorInterface.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\FestoRobotSensorInterface.cpp",
+              "RelativeToolTip": "FestoRobotSensorInterface.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-27T10:49:39.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FestoRobotInterface.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\FestoRobotInterface.h",
+              "RelativeDocumentMoniker": "FestoRobotInterface.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\FestoRobotInterface.h",
+              "RelativeToolTip": "FestoRobotInterface.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-24T19:10:32.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SensorInterface.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\SensorInterface.h",
+              "RelativeDocumentMoniker": "SensorInterface.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\SensorInterface.h",
+              "RelativeToolTip": "SensorInterface.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-24T19:13:28.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Menu.cpp",
+              "RelativeDocumentMoniker": "Menu.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Menu.cpp",
+              "RelativeToolTip": "Menu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T19:37:09.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LidarSensor.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\LidarSensor.h",
+              "RelativeDocumentMoniker": "LidarSensor.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\LidarSensor.h",
+              "RelativeToolTip": "LidarSensor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T15:14:17.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FestoRobotAPI.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\FestoRobotAPI.h",
+              "RelativeDocumentMoniker": "FestoRobotAPI.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\FestoRobotAPI.h",
+              "RelativeToolTip": "FestoRobotAPI.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T15:06:58.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TestPoint.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestPoint.h",
+              "RelativeDocumentMoniker": "TestPoint.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestPoint.h",
+              "RelativeToolTip": "TestPoint.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-22T16:59:33.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TestRobotOperator.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestRobotOperator.h",
+              "RelativeDocumentMoniker": "TestRobotOperator.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestRobotOperator.h",
+              "RelativeToolTip": "TestRobotOperator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-22T16:55:54.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TestRobotOperator.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestRobotOperator.cpp",
+              "RelativeDocumentMoniker": "TestRobotOperator.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestRobotOperator.cpp",
+              "RelativeToolTip": "TestRobotOperator.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-22T16:56:21.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TestEncryption.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestEncryption.h",
+              "RelativeDocumentMoniker": "TestEncryption.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestEncryption.h",
+              "RelativeToolTip": "TestEncryption.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-22T16:57:10.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TestEncryption.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestEncryption.cpp",
+              "RelativeDocumentMoniker": "TestEncryption.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestEncryption.cpp",
+              "RelativeToolTip": "TestEncryption.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-22T16:58:06.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TestPoint.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestPoint.cpp",
+              "RelativeDocumentMoniker": "TestPoint.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\TestPoint.cpp",
+              "RelativeToolTip": "TestPoint.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-22T16:58:45.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Menu.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Menu.h",
+              "RelativeDocumentMoniker": "Menu.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Menu.h",
+              "RelativeToolTip": "Menu.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T19:38:34.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Record.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Record.h",
+              "RelativeDocumentMoniker": "Record.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Record.h",
+              "RelativeToolTip": "Record.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T18:41:22.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Record.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Record.cpp",
+              "RelativeDocumentMoniker": "Record.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Record.cpp",
+              "RelativeToolTip": "Record.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwCQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T18:42:00.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Pose.cpp",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Pose.cpp",
+              "RelativeDocumentMoniker": "Pose.cpp",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Pose.cpp",
+              "RelativeToolTip": "Pose.cpp",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwEwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T15:12:34.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Pose.h",
+              "DocumentMoniker": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Pose.h",
+              "RelativeDocumentMoniker": "Pose.h",
+              "ToolTip": "C:\\Users\\ozcob\\Desktop\\proje_okey\\projeokey\\Pose.h",
+              "RelativeToolTip": "Pose.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T15:11:34.833Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
